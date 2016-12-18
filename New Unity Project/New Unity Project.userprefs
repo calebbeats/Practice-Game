@@ -21,7 +21,7 @@
       <File FileName="Assets\Scripts\LoadInformationToScene.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Turn Based Combat\Create Player\CreateNewCharacter.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\SavingAndLoading\PPSerialization.cs" Line="1" Column="1" />
-      <File FileName="Assets\Player Movement\PlayerMovement.cs" Line="14" Column="3" />
+      <File FileName="Assets\Player Movement\PlayerMovement.cs" Line="17" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

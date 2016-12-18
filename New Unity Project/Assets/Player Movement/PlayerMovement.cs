@@ -12,9 +12,9 @@ public class PlayerMovement : MonoBehaviour {
 	void Update () {
 		//GetButton deals with the input manager. We should use this/
 
-		if (Input.GetButton ("fire1")) {
-			Debug.Log ("Pressed Fire1 key");
-		}
+		//if (Input.GetButton ("fire1")) {
+		//	Debug.Log ("Pressed Fire1 key");
+		//}
 		if (Input.GetKeyDown ("s")) {
 			Debug.Log ("Pressed S key");
 		}

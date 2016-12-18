@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DELETETHIS.cs" />
      <Compile Include="Assets\Player Movement\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Base Player\BasePlayer.cs" />
      <Compile Include="Assets\Scripts\Character Classes\BaseCharacterClass.cs" />

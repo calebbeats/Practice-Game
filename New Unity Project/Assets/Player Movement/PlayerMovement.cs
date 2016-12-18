@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//GetButton deals with the input manager. We should use this/
-		.
+
 		if (Input.GetButton ("fire1")) {
 			Debug.Log ("Pressed Fire1 key");
 		}
